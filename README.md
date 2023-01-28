@@ -1,1 +1,1 @@
-# adjacency-matrix-algorithm
+# direct-unweighted-graph-implementation
